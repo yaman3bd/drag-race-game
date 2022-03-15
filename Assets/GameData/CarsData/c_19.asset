@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25999a172e90fee4e9372257a260db1a, type: 3}
+  m_Name: c_19
+  m_EditorClassIdentifier: 
+  BuyType: 0
+  DefaultGearRatio:
+  - 4.171
+  - 2.34
+  - 1.521
+  - 1.143
+  - 0.867
+  - 0.691
+  DefaultEngineTorquesPerGear:
+  - 150
+  - 180
+  - 200
+  - 250
+  - 400
+  - 600
+  DefaultMaxSpeedsPerGear:
+  - 30
+  - 50
+  - 80
+  - 150
+  - 200
+  - 240
+  CarMaxSpeed: 150
+  CarMaxGearsCount: 5
+  FinalDriveRatio: 3.46
+  AutoGear: 0
+  MaxBoostTime: 1.5
+  BoostRefillSpeed: 1
+  BoostForce: 7500
+  DownForce: 500
+  IsAddStartAccForceAllowed: 0
+  StartAccForce: 0
+  EngineSound: {fileID: 0}
+  NitroSound: {fileID: 0}
+  GearChangeSound: {fileID: 0}
+  IsAvailable: 1
+  Name: Supernova
+  ID: c_19
+  ClassName: B Class
+  CarType: 0
+  DrivingType: 3
+  Price: 396
+  Rank: 0
+  Upgradeables: []

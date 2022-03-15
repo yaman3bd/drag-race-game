@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf312d0a16a12404c82b2f67ed6c671f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Robaga Rounded Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8b4a0c90a44152409b40a4d750d70b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

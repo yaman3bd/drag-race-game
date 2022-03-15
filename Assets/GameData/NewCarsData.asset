@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1c9bc46c83200a4289c65ec72a3aa86, type: 3}
+  m_Name: NewCarsData
+  m_EditorClassIdentifier: 
+  CarsDataList:
+  - {fileID: 11400000, guid: d4724d56adaa2de48b37f82b646424d5, type: 2}
+  - {fileID: 11400000, guid: 7831046e217d6394c82e1bf16fbbac54, type: 2}
+  - {fileID: 11400000, guid: 6475964c5c5b0e54ebf1311c7ed56e85, type: 2}
+  - {fileID: 11400000, guid: f4041cff716a52b488317117db12f970, type: 2}
+  - {fileID: 11400000, guid: de7785bb902f3c84d9fda6429e5aa0c9, type: 2}
+  - {fileID: 11400000, guid: f35c48dabc4f344408f39298567f1487, type: 2}
+  - {fileID: 11400000, guid: b68d7b9f25916444495cc64d27e56739, type: 2}
+  - {fileID: 11400000, guid: b3597eff4e1495149ba97a160c5ac5f1, type: 2}
+  - {fileID: 11400000, guid: 35edade277755d44cbdf3762f4197198, type: 2}
+  - {fileID: 11400000, guid: efd470e26f463874a90e5a489a6c244e, type: 2}
+  - {fileID: 11400000, guid: 6be37439bbbcbbb47823e6f5a3b89760, type: 2}
+  - {fileID: 11400000, guid: 5ea7d43787deeae4f9561c1b9ac637c0, type: 2}
+  - {fileID: 11400000, guid: 754664c5ccf19ba40a775ee46d51573a, type: 2}
+  - {fileID: 11400000, guid: be9eae41f501a97488370cb3db8e530a, type: 2}
+  - {fileID: 11400000, guid: 9735226906d251345bb08f8e2304d608, type: 2}
+  - {fileID: 11400000, guid: 1c28af899df8f0a4ba2e6054baba803a, type: 2}
+  - {fileID: 11400000, guid: c8968c3ec72d828478e775d1ed50f153, type: 2}
+  - {fileID: 11400000, guid: 5778b3c4353d7ba4bac2f19c7c66aef1, type: 2}
+  - {fileID: 11400000, guid: 5f90fe96c546c5a4891e7147458051b4, type: 2}
+  - {fileID: 11400000, guid: 434084baca47dd248a9d4a2bb31a292c, type: 2}
+  - {fileID: 11400000, guid: 101d1f0009d76f74baa5e03c9f017be6, type: 2}
+  - {fileID: 11400000, guid: 0040f5f7f802a694889b49b414594114, type: 2}
+  - {fileID: 11400000, guid: 07631c302bc51004ba43553a64a6dd7d, type: 2}
+  - {fileID: 11400000, guid: 10716e004b9e1384f835ba369b715e19, type: 2}
+  - {fileID: 11400000, guid: f8469fcd26f3a754c85ea17d737746d3, type: 2}
+  - {fileID: 11400000, guid: 363dd8fc7a491104d8f932bdf90660a3, type: 2}
+  - {fileID: 11400000, guid: e35cc1ee3c56d7e4d9246c53137160c6, type: 2}
+  - {fileID: 11400000, guid: 48d59acf411a3b44faa767ca0de9b793, type: 2}
+  - {fileID: 11400000, guid: 6037c06063d7b3442aa315bec86497bc, type: 2}
+  - {fileID: 11400000, guid: d1b7df2daf0a11e4db2684a7622f3af9, type: 2}
+  - {fileID: 11400000, guid: 50038c21b7158ee4bb0e94f1b67d476c, type: 2}
+  - {fileID: 11400000, guid: 98c83ce5d41fcdb44b524ca19e03776b, type: 2}
+  - {fileID: 11400000, guid: cc2e2db59f329b4418f462271c401d9d, type: 2}
+  - {fileID: 11400000, guid: 68f2425a55daf9f4ab9b1bf98a8935cb, type: 2}
+  - {fileID: 11400000, guid: a75d5d9c68100334d8079d0020604fac, type: 2}
+  - {fileID: 11400000, guid: 21f30213003f5924dbd18c4e213e53c3, type: 2}
+  - {fileID: 11400000, guid: c5ee0d0d3a815fa4f980228c73b07d97, type: 2}
+  - {fileID: 11400000, guid: 67cc2a32bd401614587e54a06e064e8f, type: 2}
+  - {fileID: 11400000, guid: 3f161ad17ebabbe41acca45c79b39220, type: 2}
+  - {fileID: 11400000, guid: 200c2b266f88633418e06c8ee82a7205, type: 2}
+  - {fileID: 11400000, guid: 7b93438e747225b4c83a1d61712de7d0, type: 2}
+  - {fileID: 11400000, guid: 94b72b5d1487c2f41b424a69662f7fa7, type: 2}
+  - {fileID: 11400000, guid: f7bf7f660df3be146be24120f78f29b9, type: 2}
+  - {fileID: 11400000, guid: b621bf31057f53b4cba98e499c4455f6, type: 2}
+  - {fileID: 11400000, guid: 3bbbe56dfeeaf7c43af1b94e32fa4dbf, type: 2}
+  - {fileID: 11400000, guid: 5a2ef6939700abb409419ded564a6159, type: 2}
+  - {fileID: 11400000, guid: 8e8210325719790418e689a90679b30e, type: 2}
+  - {fileID: 11400000, guid: 232184f3d3dd49a43afbf72ae028fb5a, type: 2}
+  - {fileID: 11400000, guid: 2d22871b2c4c6d54d87f7167ef2db877, type: 2}
+  - {fileID: 11400000, guid: 52ad77356c12c11479760e05bf5a86ce, type: 2}
+  - {fileID: 11400000, guid: 34351da0eafbe6143a2bc90e7fea1163, type: 2}
+  - {fileID: 11400000, guid: 06cc49cb72eaada449de37aaba01bf41, type: 2}
+  - {fileID: 11400000, guid: 0bc026bb7ad42eb42b66dec8246ae37f, type: 2}
+  - {fileID: 11400000, guid: ebd47c45461ef2b408e679f4be4cb96c, type: 2}
+  - {fileID: 11400000, guid: fca5b3fbf375f474ea6df265b8baa1aa, type: 2}
+  - {fileID: 11400000, guid: ba03f2f2ad07be246bcc12c82493373e, type: 2}
+  FilteredCarsDataList: []
